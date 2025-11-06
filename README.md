@@ -4,7 +4,7 @@ This repo contains custom color themes that I have made for Visual Studio. Speci
 
 
 
-## ![Dark Green Theme Logo](https://github.com/dragnilar/Custom-Color-Themes/blob/master/Dark%20Green%20Theme/visual_studio_green.png) Dark Green Theme  / Dark Green Theme 2022
+## ![Dark Green Theme Logo](https://github.com/stephenjeffreywhite/Custom-Color-Themes/blob/master/Dark%20Green%20Theme/visual_studio_dark_green_theme_icon.png) Dark Green Theme  / Dark Green Theme 2022
 
 The theme was created using the [Theme Editor For Visual Studio 2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor).
 
@@ -23,7 +23,7 @@ The actual project files were created using the [VS2019 Color Theme Designer](ht
 #### Screen shots / Example:
 ***
 ##### Dark Green Theme for Visual Studio 2019
-![Dark Green Theme](https://github.com/dragnilar/Custom-Color-Themes/blob/master/Dark%20Green%20Theme/screenshot.png)
+![Dark Green Theme](https://github.com/stephenjeffreywhite/Custom-Color-Themes/blob/master/Dark%20Green%20Theme/screenshot.png)
 ***
 ##### Dark Green Theme for Visual Studio 2022
-![Dark Green Theme 2022](https://github.com/dragnilar/Custom-Color-Themes/blob/master/Dark%20Green%20Theme%202022/screenshot.png)
+![Dark Green Theme 2022](https://github.com/stephenjeffreywhite/Custom-Color-Themes/blob/master/Dark%20Green%20Theme%202022/screenshot.png)
