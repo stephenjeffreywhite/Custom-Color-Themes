@@ -13,7 +13,7 @@ The actual project files were created using the [VS2019 Color Theme Designer](ht
 
 
 - If you want to use it, you have these options:
-  - The releases section of this repository:  [releases section of this repo](https://github.com/dragnilar/Custom-Color-Themes/releases/tag/3)
+  - The releases section of this repository:  [releases section of this repo](https://github.com/dragnilar/Custom-Color-Themes/releases)
   - You can get the 2019 version from the VS Marketplace at this link: [Dark Green Theme](https://marketplace.visualstudio.com/items?itemName=StephenWhiteDragnilar.DarkGreenTheme)
   - You can get the 2022 version from the VS Marketplace at this link: [Dark Green Theme 2022](https://marketplace.visualstudio.com/items?itemName=StephenWhiteDragnilar.DarkGreenTheme2022)
   - Build the VSIX files yourself using the project files in this repository. (You will need Visual Studio 2019 or later to do this.)
