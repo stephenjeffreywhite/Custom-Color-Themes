@@ -10,14 +10,14 @@ The theme was created using the [Theme Editor For Visual Studio 2019](https://ma
 
 The actual project files were created using the [VS2019 Color Theme Designer](https://marketplace.visualstudio.com/items?itemName=ms-madsk.ColorThemeDesigner&ssr=false#overview).
 
-- I don't recommend doing any actual editing on the theme with Theme Designer. The Theme Editor, while was not perfect, does not have as many problems as the Theme Designer. None the less, I DO recommend using the Theme Designer to package the theme up since it greatly simplfies making VSIX files for themes.
+### This theme does not currently work with Visual Studio 2026 Insiders. It may be updated in the future to support that version.
 
 
 - If you want to use it, you have these options:
   - The releases section of this repository:  [releases section of this repo](https://github.com/dragnilar/Custom-Color-Themes/releases/tag/3)
   - You can get the 2019 version from the VS Marketplace at this link: [Dark Green Theme](https://marketplace.visualstudio.com/items?itemName=StephenWhiteDragnilar.DarkGreenTheme)
   - You can get the 2022 version from the VS Marketplace at this link: [Dark Green Theme 2022](https://marketplace.visualstudio.com/items?itemName=StephenWhiteDragnilar.DarkGreenTheme2022)
-  - Build it yourself from the source 😉
+  - Build the VSIX files yourself using the project files in this repository. (You will need Visual Studio 2019 or later to do this.)
 
 
 #### Screen shots / Example:
