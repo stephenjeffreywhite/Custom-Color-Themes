@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29306.81
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11426.168 d18.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dark Green Theme", "Dark Green Theme\Dark Green Theme.csproj", "{652B1098-33CB-4388-ADB4-89A43764EE54}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dark Green Theme 2022", "Dark Green Theme 2022\Dark Green Theme 2022.csproj", "{46A464EE-883C-4CA6-872F-CF25E808721C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dark Green Theme 2026", "Dark Green Theme 2026\Dark Green Theme 2026.csproj", "{C676CAC2-89CC-4070-A940-E20DD497238E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{46A464EE-883C-4CA6-872F-CF25E808721C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46A464EE-883C-4CA6-872F-CF25E808721C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46A464EE-883C-4CA6-872F-CF25E808721C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C676CAC2-89CC-4070-A940-E20DD497238E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C676CAC2-89CC-4070-A940-E20DD497238E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C676CAC2-89CC-4070-A940-E20DD497238E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C676CAC2-89CC-4070-A940-E20DD497238E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

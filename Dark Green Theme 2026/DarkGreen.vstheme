@@ -1,0 +1,34 @@
+<Themes>
+  <Theme Name="Dark Green"
+         GUID="{E2C7B67D-0D3A-4D89-9B0C-9A0A6D8E1B11}"
+         FallbackId="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+
+    <!-- VS 2026 semantic shell tokens -->
+    <Category Name="Shell" GUID="{73708ded-2d56-4aad-b8eb-73b20d3f4bff}">
+      <!-- Accent color (was purple: FF9184EE). Pick your green here. -->
+      <Color Name="AccentFillDefault">
+        <Background Type="CT_RAW" Source="FF2EA043" />
+      </Color>
+
+      <!-- Semi-transparent accent (was CC9184EE). Keep same alpha, swap RGB. -->
+      <Color Name="AccentFillTertiary">
+        <Background Type="CT_RAW" Source="CC2EA043" />
+      </Color>
+
+      <!-- Leave secondary as-is unless you know exactly what you want -->
+      <Color Name="AccentFillSecondary">
+        <Background Type="CT_RAW" Source="80000000" />
+      </Color>
+    </Category>
+
+    <Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
+      <!-- These drive some borders/logos/etc that often show the “brand” color -->
+      <Color Name="EnvironmentBorder">
+        <Background Type="CT_RAW" Source="FF2EA043" />
+      </Color>
+      <Color Name="EnvironmentLogo">
+        <Background Type="CT_RAW" Source="FF2EA043" />
+      </Color>
+    </Category>
+  </Theme>
+</Themes>
