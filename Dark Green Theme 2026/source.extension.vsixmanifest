@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Dark_Green_Theme_2026.ea7c8ee1-36fa-4c01-9137-e116fed10576" Version="1.0" Language="en-US" Publisher="Stephen White" />
+        <Identity Id="Dark_Green_Theme_2026.ea7c8ee1-36fa-4c01-9137-e116fed10576" Version="1.01" Language="en-US" Publisher="Stephen White" />
         <DisplayName>Dark Green Theme 2026</DisplayName>
-        <Description xml:space="preserve">Dark Green Theme for Visual Studio 2026, based off of the Visual Studio 2026 Dark Theme. Some of the default text editor colors may need to be adjusted depending on your preferences and the other extensions you are using,</Description>
+        <Description xml:space="preserve">Dark Green Theme for Visual Studio 2026, based off of the Visual Studio 2026 Dark Theme.</Description>
         <MoreInfo>https://github.com/dragnilar/Custom-Color-Themes</MoreInfo>
         <Icon>visual_studio_dark_green_theme_icon.png</Icon>
         <PreviewImage>visual_studio_dark_green_theme_icon.png</PreviewImage>
